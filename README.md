@@ -1,11 +1,17 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Muralidharan V</h1>
+<h1>👋 Hi, I'm Muralidharan V</h1>
 
-<h3>AI & Data Science Student | Python Developer | Machine Learning Enthusiast</h3>
+<h3>Artificial Intelligence & Data Science Student</h3>
 
 <p>
-Passionate about Artificial Intelligence, Machine Learning, Data Science, and building real-world AI applications.
+Passionate about Artificial Intelligence, Machine Learning, Data Science, and Python Development.
+</p>
+
+<p>
+<a href="https://muralidharanv170807-spec-lumin-aura-forge.muralidharan-portfolio.workers.dev/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge" alt="Portfolio"/>
+</a>
 </p>
 
 </div>
@@ -16,16 +22,17 @@ Passionate about Artificial Intelligence, Machine Learning, Data Science, and bu
 
 <ul>
 <li>🎓 B.Tech Artificial Intelligence & Data Science Student</li>
-<li>💡 Interested in AI, Machine Learning & Data Science</li>
-<li>🐍 Learning Python and AI Development</li>
+<li>💡 Passionate about Artificial Intelligence and Machine Learning</li>
+<li>🐍 Python Developer</li>
+<li>📊 Interested in Data Analytics and AI Applications</li>
 <li>🎯 Goal: Become an AI Engineer</li>
 </ul>
 
 <hr>
 
-<h2>🛠 Skills</h2>
+<h2>🛠️ Technical Skills</h2>
 
-<h3>Programming</h3>
+<h3>Programming Language</h3>
 
 <ul>
 <li>Python</li>
@@ -55,12 +62,11 @@ Passionate about Artificial Intelligence, Machine Learning, Data Science, and bu
 <h3>AI Resume Screening Automation</h3>
 
 <p>
-An AI-powered resume screening system that automatically analyzes resumes,
-extracts candidate information, compares skills with job requirements,
-and stores results for recruiters.
+An AI-powered resume screening system that automatically extracts candidate information,
+analyzes resumes, compares skills with job requirements, and stores the results for recruiters.
 </p>
 
-<h4>Technologies Used</h4>
+<b>Technologies Used</b>
 
 <ul>
 <li>Python</li>
@@ -77,6 +83,7 @@ and stores results for recruiters.
 
 <ul>
 <li>Machine Learning</li>
+<li>Artificial Intelligence</li>
 <li>Data Science</li>
 <li>Exploratory Data Analysis (EDA)</li>
 <li>Data Visualization</li>
@@ -84,21 +91,35 @@ and stores results for recruiters.
 
 <hr>
 
-<h2>📫 Connect With Me</h2>
+<h2>🌐 Portfolio</h2>
 
 <p>
-📧 Email: muralidharan.v170807@gmail.com
+Visit my personal portfolio to explore my projects, technical skills, certifications, and achievements.
 </p>
 
 <p>
-💼 LinkedIn:<br>
+<a href="https://muralidharanv170807-spec-lumin-aura-forge.muralidharan-portfolio.workers.dev/">
+🌐 Click Here to View My Portfolio
+</a>
+</p>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+📧 <b>Email:</b> muralidharanv077357381@gmail.com
+</p>
+
+<p>
+💼 <b>LinkedIn:</b><br>
 <a href="https://www.linkedin.com/in/muralidharan-v-077357381">
 https://www.linkedin.com/in/muralidharan-v-077357381
 </a>
 </p>
 
 <p>
-🐙 GitHub:<br>
+🐙 <b>GitHub:</b><br>
 <a href="https://github.com/muralidharanv170807-spec">
 https://github.com/muralidharanv170807-spec
 </a>
@@ -108,6 +129,10 @@ https://github.com/muralidharanv170807-spec
 
 <div align="center">
 
-<h3>⭐ Thank you for visiting my GitHub profile! ⭐</h3>
+<h3>⭐ Thanks for visiting my GitHub Profile! ⭐</h3>
+
+<p>
+<em>"Keep Learning, Keep Building, Keep Growing."</em>
+</p>
 
 </div>
