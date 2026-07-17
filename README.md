@@ -98,11 +98,11 @@ Visit my personal portfolio to explore my projects, technical skills, certificat
 </p>
 
 <p>
-<a href="https://muralidharanv170807-spec-lumin-aura-forge.muralidharan-portfolio.workers.dev/">
-🌐 Click Here to View My Portfolio
-</a>
+    🌐 <strong>Portfolio:</strong><br>
+    <a href="https://muralidharanv170807-spec-lumin-aura-forge.muralidharan-portfolio.workers.dev/" target="_blank">
+        https://muralidharanv170807-spec-lumin-aura-forge.muralidharan-portfolio.workers.dev/
+    </a>
 </p>
-
 <hr>
 
 <h2>📫 Connect With Me</h2>
