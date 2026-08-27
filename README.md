@@ -8,12 +8,6 @@
 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Python Development.
 </p>
 
-<p>
-<a href="https://muralidharanv170807-spec-lumin-aura-forge.muralidharan-portfolio.workers.dev/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge" alt="Portfolio"/>
-</a>
-</p>
-
 </div>
 
 <hr>
@@ -89,20 +83,6 @@ analyzes resumes, compares skills with job requirements, and stores the results 
 <li>Data Visualization</li>
 </ul>
 
-<hr>
-
-<h2>🌐 Portfolio</h2>
-
-<p>
-Visit my personal portfolio to explore my projects, technical skills, certifications, and achievements.
-</p>
-
-<p>
-    🌐 <strong>Portfolio:</strong><br>
-    <a href="https://muralidharanv170807-spec-lumin-aura-forge.muralidharan-portfolio.workers.dev/" target="_blank">
-        https://muralidharanv170807-spec-lumin-aura-forge.muralidharan-portfolio.workers.dev/
-    </a>
-</p>
 <hr>
 
 <h2>📫 Connect With Me</h2>
