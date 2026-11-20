@@ -1,118 +1,66 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Muralidharan V</h1>
+# Hi, I'm Muralidharan V
 
-<h3>Artificial Intelligence & Data Science Student</h3>
+**B.Tech Artificial Intelligence & Data Science Student | Aspiring AI Engineer**
 
-<p>
-Passionate about Artificial Intelligence, Machine Learning, Data Science, and Python Development.
-</p>
+Building local multi-agent AI & RAG systems, data analytics workflows, and full-stack / blockchain applications.
 
 </div>
 
-<hr>
+---
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<ul>
-<li>🎓 B.Tech Artificial Intelligence & Data Science Student</li>
-<li>💡 Passionate about Artificial Intelligence and Machine Learning</li>
-<li>🐍 Python Developer</li>
-<li>📊 Interested in Data Analytics and AI Applications</li>
-<li>🎯 Goal: Become an AI Engineer</li>
-</ul>
+- 🎓 **B.Tech in Artificial Intelligence & Data Science**
+- 🤖 Focused on **Multi-Agent AI, RAG Pipelines, Data Analytics & Python Backend Engineering**
+- 🛠️ Experienced with local LLM workflows (**Ollama**), analytical databases (**DuckDB**), and vector search (**ChromaDB**)
+- 🎯 **Goal:** Build reliable, production-grade AI systems and become an **AI Engineer**
 
-<hr>
+---
 
-<h2>🛠️ Technical Skills</h2>
+## 🛠️ Technical Skills
 
-<h3>Programming Language</h3>
+- **Languages:** Python, SQL, JavaScript / HTML5
+- **AI, Agents & Data:** LangGraph, LangChain, Ollama (`qwen3.5:9b`), DuckDB, ChromaDB, Pandas, NumPy, Matplotlib, Plotly.js
+- **Backend, Web & Blockchain:** FastAPI, Uvicorn, React.js, Node.js, Express.js, Solidity, PostgreSQL / MongoDB, IPFS
+- **Tools & Workflows:** Git, GitHub, VS Code, Jupyter Notebook, n8n
 
-<ul>
-<li>Python</li>
-</ul>
+---
 
-<h3>Libraries</h3>
+## 🚀 Featured Projects
 
-<ul>
-<li>NumPy</li>
-<li>Pandas</li>
-<li>Matplotlib</li>
-</ul>
+### 1. NexusAI — Autonomous Multi-Agent Data Analyst
+A 100% local analytical workbench that routes queries dynamically across **SQL Analytics**, **Policy RAG**, and **Hybrid Audits**, complete with self-evaluated groundedness scoring, interactive Plotly charts, one-click CSV export, and source file management.
+- **Tech Stack:** Python, FastAPI, LangGraph, DuckDB, ChromaDB, Ollama (`qwen3.5:9b`), Tailwind CSS, Plotly.js
+- **Repo:** [muralidharanv170807-spec/autonomous-data-analyst](https://github.com/muralidharanv170807-spec/autonomous-data-analyst)
 
-<h3>Tools</h3>
+### 2. AI Resume Screening Automation
+An AI-powered resume screening workflow that extracts candidate details, evaluates skill alignment against job requirements, and logs structured results for recruiters.
+- **Tech Stack:** Python, OpenAI API, n8n, Google Drive, Google Sheets, Gmail API
 
-<ul>
-<li>Git</li>
-<li>GitHub</li>
-<li>Jupyter Notebook</li>
-<li>VS Code</li>
-</ul>
+### 3. Blockchain Identity, Access Control & Digital Asset Platform *(SIH 2026)*
+Designed a secure platform architecture combining smart contracts and decentralized/relational storage for identity verification, access control, and digital asset management.
+- **Tech Stack:** React.js, Node.js, Express.js, Solidity, PostgreSQL / MongoDB, IPFS
 
-<hr>
+---
 
-<h2>🚀 Featured Project</h2>
+## 📚 Currently Exploring
 
-<h3>AI Resume Screening Automation</h3>
+- Multi-agent orchestration, self-evaluating RAG, and local model optimization
+- Applied probability, statistics, AI search/optimization algorithms, and cybersecurity fundamentals
+- End-to-end testing, clean API design, and reproducible open-source engineering
 
-<p>
-An AI-powered resume screening system that automatically extracts candidate information,
-analyzes resumes, compares skills with job requirements, and stores the results for recruiters.
-</p>
+---
 
-<b>Technologies Used</b>
+## 📫 Connect With Me
 
-<ul>
-<li>Python</li>
-<li>OpenAI API</li>
-<li>n8n</li>
-<li>Google Drive</li>
-<li>Google Sheets</li>
-<li>Gmail API</li>
-</ul>
-
-<hr>
-
-<h2>📚 Currently Learning</h2>
-
-<ul>
-<li>Machine Learning</li>
-<li>Artificial Intelligence</li>
-<li>Data Science</li>
-<li>Exploratory Data Analysis (EDA)</li>
-<li>Data Visualization</li>
-</ul>
-
-<hr>
-
-<h2>📫 Connect With Me</h2>
-
-<p>
-📧 <b>Email:</b> muralidharanv077357381@gmail.com
-</p>
-
-<p>
-💼 <b>LinkedIn:</b><br>
-<a href="https://www.linkedin.com/in/muralidharan-v-077357381">
-https://www.linkedin.com/in/muralidharan-v-077357381
-</a>
-</p>
-
-<p>
-🐙 <b>GitHub:</b><br>
-<a href="https://github.com/muralidharanv170807-spec">
-https://github.com/muralidharanv170807-spec
-</a>
-</p>
-
-<hr>
+- **Email:** muralidharanv077357381@gmail.com
+- **LinkedIn:** [linkedin.com/in/muralidharan-v-077357381](https://www.linkedin.com/in/muralidharan-v-077357381)
+- **GitHub:** [github.com/muralidharanv170807-spec](https://github.com/muralidharanv170807-spec)
 
 <div align="center">
 
-<h3>⭐ Thanks for visiting my GitHub Profile! ⭐</h3>
-
-<p>
-<em>"Keep Learning, Keep Building, Keep Growing."</em>
-</p>
+*Keep Learning, Keep Building, Keep Growing.*
 
 </div>
