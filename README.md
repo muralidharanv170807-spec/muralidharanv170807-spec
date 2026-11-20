@@ -132,7 +132,9 @@ A secure platform architecture combining blockchain smart contracts and decentra
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/muralidharanv170807-spec/muralidharanv170807-spec/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+## 🐍 Contribution Activity
+
+<img src="https://raw.githubusercontent.com/muralidharanv170807-spec/muralidharanv170807-spec/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
